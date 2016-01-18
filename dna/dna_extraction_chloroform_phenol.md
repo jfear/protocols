@@ -35,10 +35,10 @@ A good quality DNA extraction using chloroform-phenol.
 15. discard supernatant (don't lose pellet)
 16. wash pellet with 1 ml 70% EtOH
 17. spin for 5 min @13,000 rpm
-18. remove supernatant and dry pellet (~20 min @ room temperature)
+18. remove supernatant and dry pellet (~20 min @ room temperature)<sup>2(#onight)</sup>
 19. resuspend the pellet in 100ul of TE
 
 ## Notes
 
-* procedure based on XXX
-* Step 18 can be done over night
+1. procedure based on XXX
+<a name='onight'>2</a> Step 18 can be done over night
