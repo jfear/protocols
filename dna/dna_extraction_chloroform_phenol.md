@@ -8,9 +8,7 @@ A good quality DNA extraction using chloroform-phenol.
     - Tris HCL 0.1M (pH 9.0)
     - EDTA 0.1M
     - SDS 1%
-
-* Phenol-Chloroform (Sigma: )
-
+* Phenol-Chloroform [Sigma: [P3803-100ML](http://www.sigmaaldrich.com/catalog/product/sigma/p3803?lang=en&region=US)]
 * KAc 8M
 * Isopropanol
 * EtOH 70%
