@@ -41,5 +41,4 @@ A good quality DNA extraction using chloroform-phenol.
 ## Notes
 
 1. procedure based on XXX
-
-<a name="onight">2</a>. Step 18 can be done over night
+2. <a name="onight"> </a>Step 18 can be done over night
