@@ -8,7 +8,7 @@ A good quality DNA extraction using chloroform-phenol.
     - Tris HCL 0.1M (pH 9.0)
     - EDTA 0.1M
     - SDS 1%
-* Phenol-Chloroform [Sigma: [P3803-100ML](http://www.sigmaaldrich.com/catalog/product/sigma/p3803?lang=en&region=US)]
+* Phenol-Chloroform [Sigma: [P2069-100ML](http://www.sigmaaldrich.com/catalog/product/sigma/p2069?lang=en&region=US)]
 * KAc 8M
 * Isopropanol
 * EtOH 70%
@@ -38,5 +38,5 @@ A good quality DNA extraction using chloroform-phenol.
 
 ## Notes
 
-1. procedure based on XXX
+1. procedure based on http://stockcenter.vdrc.at/images/downloads/GoodQualityGenomicDNA.pdf
 2. <a name="onight"></a>Step 18 can be done over night
