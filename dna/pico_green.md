@@ -12,15 +12,18 @@
 1. Dilute Lambda DNA standard 1:50 in TE pH 8 (49 µl TE + 1 µl DNA standard; final concentration 2 ng/µl)
 2. Prepare Picogreen mix using the following table
 
-| rxn | TE      | Picogreen dsDNA reagent |
-|-----|---------|-------------------------|
-| 220 | 6.6 ml  | 33 µl                   |
-|  96 | 2.88 ml | 14.4 µl                 |
-|  48 | 1.44 ml |  7.2 µl                 |
-|  24 | 0.72 ml |  1.35 µl                |
+| rxn | TE       | Picogreen dsDNA reagent |
+|-----|----------|-------------------------|
+|  22 |  0.66 ml |  3.3 µl                 |
+|  34 |  1.02 ml |  5.1 µl                 |
+|  58 |  1.74 ml |  8.7 µl                 |
+| 106 |  3.18 ml | 15.9 µl                 |
+| 202 |  6.06 ml | 30.3 µl                 |
+| 384 | 11.52 ml | 57.6 µl                 |
 
-**Note: Make sure to make enough dye for your standards and samples. Life is
-much easier if you make enough so you can use a multichannel pipette.**
+**Note: The above number of reactions are suggested for samples + standards. If
+you want a different number of rxn then (TE = rxn X 0.03 ml) and (pico = rxn X
+0.15 µl).**
 
 3. In one column of a 384 well plate, create a (1:2) serial dilution
     * Add 25 µl of 1:50 diluted DNA standard to the first two wells (**A and B**)
