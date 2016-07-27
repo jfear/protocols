@@ -10,7 +10,7 @@ little as 5 pg/µL of DNA between 35-1000 bp.
 | Sensitivity     | 5 pg/µL            |
 
 
-[ ] 1. Let reagents warm to room temperature for 30 min
+- [ ] 1. Let reagents warm to room temperature for 30 min
 
 
 
