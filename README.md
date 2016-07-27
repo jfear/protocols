@@ -4,8 +4,8 @@ the URL change `github` to `gitprint`. For example:
 
 **Change:**
 
-![](https://github.com/jfear/protocols/blob/master/dna/dna_extraction_chloroform_phenol.md)
+[](https://github.com/jfear/protocols/blob/master/dna/dna_extraction_chloroform_phenol.md)
 
 **to:**
 
-![](https://gitprint.com/jfear/protocols/blob/master/dna/dna_extraction_chloroform_phenol.md)
+[](https://gitprint.com/jfear/protocols/blob/master/dna/dna_extraction_chloroform_phenol.md)
