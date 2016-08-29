@@ -36,31 +36,29 @@
     * Leave **P** with just 25 µL of TE
 4. Add 24 µL of TE to enough wells for all of your samples, then add 1 µL of DNA sample to each of these wells
 6. Add 25 µL of diluted Picogreen dsDNA reagent (see **step 2**) to all wells containing standards and samples
-7. Quantify using plate reader
-8. Calculate standard curve using following concentrations:
-
-    | Row   | Std #   | Concentration    |
-    | ----- | ------- | ---------------  |
-    | A     | 1       | 50 ng/µL         |
-    | B     | 2       | 25 ng/µL         |
-    | C     | 3       | 12.5 ng/µL       |
-    | D     | 4       | 6.25 ng/µL       |
-    | E     | 5       | 3.125 ng/µL      |
-    | F     | 6       | 1.563 ng/µL      |
-    | G     | 7       | 0.781 ng/µL      |
-    | H     | 8       | 0.39 ng/µL       |
-    | I     | 9       | 0.195 ng/µL      |
-    | J     | 10      | 0.098 ng/µL      |
-    | K     | 11      | 0.049 ng/µL      |
-    | L     | 12      | 0.024 ng/µL      |
-    | M     | 13      | 0.012 ng/µL      |
-    | N     | 14      | 0.006 ng/µL      |
-    | O     | 15      | 0.003 ng/µL      |
-    | P     | 16      | 0 ng/µL          |
-
+7. Quantify and calculate standard curve using following concentrations:
+        
+        | Row   | Std #   | Concentration    |
+        | ----- | ------- | ---------------  |
+        | A     | 1       | 50 ng/µL         |
+        | B     | 2       | 25 ng/µL         |
+        | C     | 3       | 12.5 ng/µL       |
+        | D     | 4       | 6.25 ng/µL       |
+        | E     | 5       | 3.125 ng/µL      |
+        | F     | 6       | 1.563 ng/µL      |
+        | G     | 7       | 0.781 ng/µL      |
+        | H     | 8       | 0.39 ng/µL       |
+        | I     | 9       | 0.195 ng/µL      |
+        | J     | 10      | 0.098 ng/µL      |
+        | K     | 11      | 0.049 ng/µL      |
+        | L     | 12      | 0.024 ng/µL      |
+        | M     | 13      | 0.012 ng/µL      |
+        | N     | 14      | 0.006 ng/µL      |
+        | O     | 15      | 0.003 ng/µL      |
+        | P     | 16      | 0 ng/µL          |
+        
 9. Use the formula for the standard curve to estimate sample concentrations<sup>[2](#conc)</sup>
 
 ## Notes
 1. [Manufacture Manual](https://tools.thermofisher.com/content/sfs/manuals/mp07581.pdf)
-2. <a name="conc"></a>Look at the log transformed curve and remove
-   concentrations that are outside of the linear region of the curve.
+2. <a name="conc"></a>Remove concentrations that are outside of the linear region of the log transformed curve.
