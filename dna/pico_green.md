@@ -13,18 +13,18 @@
 1. Dilute Lambda DNA standard 1:50 in TE pH 8 (49 µL TE + 1 µL DNA standard; final concentration 2 ng/µL)
 2. Prepare Picogreen mix using the following table
 
-| rxn | TE       | Picogreen dsDNA reagent |
-|-----|----------|-------------------------|
-|  22 |  0.66 mL |  3.3 µL                 |
-|  34 |  1.02 mL |  5.1 µL                 |
-|  58 |  1.74 mL |  8.7 µL                 |
-| 106 |  3.18 mL | 15.9 µL                 |
-| 202 |  6.06 mL | 30.3 µL                 |
-| 384 | 11.52 mL | 57.6 µL                 |
+    | rxn | TE       | Picogreen dsDNA reagent |
+    |-----|----------|-------------------------|
+    |  22 |  0.66 mL |  3.3 µL                 |
+    |  34 |  1.02 mL |  5.1 µL                 |
+    |  58 |  1.74 mL |  8.7 µL                 |
+    | 106 |  3.18 mL | 15.9 µL                 |
+    | 202 |  6.06 mL | 30.3 µL                 |
+    | 384 | 11.52 mL | 57.6 µL                 |
 
-**Note: The above number of reactions are suggested for samples + standards. If
-you want a different number of rxn then (TE = rxn X 0.03 mL) and (pico = rxn X
-0.15 µL).**
+    **Note: The above number of reactions are suggested for samples + standards. If
+    you want a different number of rxn then (TE = rxn X 0.03 mL) and (pico = rxn X
+    0.15 µL).**
 
 3. In one column of a 384 well plate, create a (1:2) serial dilution
     * Add 25 µL of 1:50 diluted DNA standard to the first two wells (**A and B**)
@@ -39,24 +39,24 @@ you want a different number of rxn then (TE = rxn X 0.03 mL) and (pico = rxn X
 7. Quantify using plate reader
 8. Calculate standard curve using following concentrations:
 
-| Row   | Std #   | Concentration    |
-| ----- | ------- | ---------------  |
-| A     | 1       | 50 ng/µL         |
-| B     | 2       | 25 ng/µL         |
-| C     | 3       | 12.5 ng/µL       |
-| D     | 4       | 6.25 ng/µL       |
-| E     | 5       | 3.125 ng/µL      |
-| F     | 6       | 1.563 ng/µL      |
-| G     | 7       | 0.781 ng/µL      |
-| H     | 8       | 0.39 ng/µL       |
-| I     | 9       | 0.195 ng/µL      |
-| J     | 10      | 0.098 ng/µL      |
-| K     | 11      | 0.049 ng/µL      |
-| L     | 12      | 0.024 ng/µL      |
-| M     | 13      | 0.012 ng/µL      |
-| N     | 14      | 0.006 ng/µL      |
-| O     | 15      | 0.003 ng/µL      |
-| P     | 16      | 0 ng/µL          |
+    | Row   | Std #   | Concentration    |
+    | ----- | ------- | ---------------  |
+    | A     | 1       | 50 ng/µL         |
+    | B     | 2       | 25 ng/µL         |
+    | C     | 3       | 12.5 ng/µL       |
+    | D     | 4       | 6.25 ng/µL       |
+    | E     | 5       | 3.125 ng/µL      |
+    | F     | 6       | 1.563 ng/µL      |
+    | G     | 7       | 0.781 ng/µL      |
+    | H     | 8       | 0.39 ng/µL       |
+    | I     | 9       | 0.195 ng/µL      |
+    | J     | 10      | 0.098 ng/µL      |
+    | K     | 11      | 0.049 ng/µL      |
+    | L     | 12      | 0.024 ng/µL      |
+    | M     | 13      | 0.012 ng/µL      |
+    | N     | 14      | 0.006 ng/µL      |
+    | O     | 15      | 0.003 ng/µL      |
+    | P     | 16      | 0 ng/µL          |
 
 9. Use the formula for the standard curve to estimate sample concentrations<sup>[2](#conc)</sup>
 
