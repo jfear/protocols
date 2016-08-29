@@ -10,8 +10,8 @@
 
 **Prepare mixes**
 
-1. Dilute Lambda DNA standard 1:50 in TE pH 8 (49 µL TE + 1 µL DNA standard; final concentration 2 ng/µL)
-2. Prepare Picogreen mix using the following table
+1.. Dilute Lambda DNA standard 1:50 in TE pH 8 (49 µL TE + 1 µL DNA standard; final concentration 2 ng/µL)
+2.. Prepare Picogreen mix using the following table
 
 
 | rxn | TE       | Picogreen dsDNA reagent |
@@ -28,7 +28,7 @@
 you want a different number of rxn then (TE = rxn X 0.03 mL) and (pico = rxn X
 0.15 µL).**
 
-3. In one column of a 384 well plate, create a (1:2) serial dilution
+3.. In one column of a 384 well plate, create a (1:2) serial dilution
     * Add 25 µL of 1:50 diluted DNA standard to the first two wells (**A and B**)
     * Add 25 µL of TE to wells (**B-P**)
     * Take 25 µL from well **B** and mix with well **C**
@@ -36,9 +36,9 @@ you want a different number of rxn then (TE = rxn X 0.03 mL) and (pico = rxn X
     * Repeat until you have mixed wells up to **O**
     * Discard 25 µL from well **O**
     * Leave **P** with just 25 µL of TE
-4. Add 24 µL of TE to enough wells for all of your samples, then add 1 µL of DNA sample to each of these wells
-6. Add 25 µL of diluted Picogreen dsDNA reagent (see **step 2**) to all wells containing standards and samples
-7. Quantify and calculate standard curve using following concentrations:
+4.. Add 24 µL of TE to enough wells for all of your samples, then add 1 µL of DNA sample to each of these wells
+6.. Add 25 µL of diluted Picogreen dsDNA reagent (see **step 2**) to all wells containing standards and samples
+7.. Quantify and calculate standard curve using following concentrations:
 
 
 | Row   | Std #   | Concentration    |
@@ -61,8 +61,8 @@ you want a different number of rxn then (TE = rxn X 0.03 mL) and (pico = rxn X
 | P     | 16      | 0 ng/µL          |
 
 
-9. Use the formula for the standard curve to estimate sample concentrations<sup>[2](#conc)</sup>
+9.. Use the formula for the standard curve to estimate sample concentrations<sup>[2](#conc)</sup>
 
 ## Notes
-1. [Manufacture Manual](https://tools.thermofisher.com/content/sfs/manuals/mp07581.pdf)
-2. <a name="conc"></a>Remove concentrations that are outside of the linear region of the log transformed curve.
+1.. [Manufacture Manual](https://tools.thermofisher.com/content/sfs/manuals/mp07581.pdf)
+2.. <a name="conc"></a>Remove concentrations that are outside of the linear region of the log transformed curve.
