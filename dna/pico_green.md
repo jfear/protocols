@@ -63,5 +63,4 @@ you want a different number of rxn then (TE = rxn X 0.03 mL) and (pico = rxn X
 ## Notes
 1. [Manufacture Manual](https://tools.thermofisher.com/content/sfs/manuals/mp07581.pdf)
 2. <a name="conc"></a>Look at the log transformed curve and remove
-   concentrations that are outside of the linear region of the curve. You can
-   only accurately quantify samples that fall within this region.
+   concentrations that are outside of the linear region of the curve.
