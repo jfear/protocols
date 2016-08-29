@@ -13,6 +13,7 @@
 1. Dilute Lambda DNA standard 1:50 in TE pH 8 (49 µL TE + 1 µL DNA standard; final concentration 2 ng/µL)
 2. Prepare Picogreen mix using the following table
 
+
 | rxn | TE       | Picogreen dsDNA reagent |
 |-----|----------|-------------------------|
 |  22 |  0.66 mL |  3.3 µL                 |
@@ -21,6 +22,7 @@
 | 106 |  3.18 mL | 15.9 µL                 |
 | 202 |  6.06 mL | 30.3 µL                 |
 | 384 | 11.52 mL | 57.6 µL                 |
+
 
 **Note: The above number of reactions are suggested for samples + standards. If
 you want a different number of rxn then (TE = rxn X 0.03 mL) and (pico = rxn X
@@ -37,6 +39,7 @@ you want a different number of rxn then (TE = rxn X 0.03 mL) and (pico = rxn X
 4. Add 24 µL of TE to enough wells for all of your samples, then add 1 µL of DNA sample to each of these wells
 6. Add 25 µL of diluted Picogreen dsDNA reagent (see **step 2**) to all wells containing standards and samples
 7. Quantify and calculate standard curve using following concentrations:
+
 
 | Row   | Std #   | Concentration    |
 | ----- | ------- | ---------------  |
@@ -56,7 +59,8 @@ you want a different number of rxn then (TE = rxn X 0.03 mL) and (pico = rxn X
 | N     | 14      | 0.006 ng/µL      |
 | O     | 15      | 0.003 ng/µL      |
 | P     | 16      | 0 ng/µL          |
-        
+
+
 9. Use the formula for the standard curve to estimate sample concentrations<sup>[2](#conc)</sup>
 
 ## Notes
